@@ -13,13 +13,14 @@ body {
 div{
     margin: 5px;;
 }
-#latest {
+.latest-news-section {
 	width:200px;
 	height:150px;
 	background-color:white;
 	border: 1px solid white;
 	border-radius: 10px;
     float:left;
+	padding:5px;
 }
 
 #main {
