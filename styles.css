@@ -32,13 +32,14 @@ div{
     float:left;
 }
 
-#pict {
+.pictorial-news-section {
 	width:180px;
 	height:255px;
 	background-color:white;
 	border: 1px solid white;
 	border-radius:10px;
     float:left;
+	padding:3px;
 }
 img {
 	height:60px;
